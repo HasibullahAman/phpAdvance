@@ -1,7 +1,7 @@
 <?php
 
-class Cars{
-    public $color="red";
-    public $
+class User{
+    public $age=10;
+    public $name = "hassan";
 }
 
